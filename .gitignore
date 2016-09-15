@@ -1,0 +1,9 @@
+_site/
+
+.DS_Store
+
+package-lock.json
+
+.bundle
+vendor/
+assets/data
